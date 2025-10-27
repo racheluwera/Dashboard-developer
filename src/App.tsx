@@ -24,7 +24,7 @@ const App: React.FC = () => {
 
       <div className="flex space-x-6">
         <WeatherCard />
-        <GitHubCard repos={54} followers={70} following={18} />
+        <GitHubCard />
       </div>
     </div>
   );
